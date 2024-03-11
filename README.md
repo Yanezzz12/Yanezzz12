@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yanezzz12, I am a Mechatronic Engineer
+- 👋 Hi, I’m @Yanezzz12, I am a Mechatronics Engineer
 - 👀 I’m interested in Graphics Engines, Machine Learning, Web design and Desktop apps 
 - 🌱 I’m currently learning Python, C, C++, C#, Unity, Java, CSS & Javascript
 - 💞️ I’m looking to collaborate on open source projects
